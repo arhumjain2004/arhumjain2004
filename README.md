@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.58**
+- 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.71**
 - 🌐 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** to sharpen my problem-solving skills
+- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
 - 🔭 Currently building: **BeatFlow** – a full-stack MERN music streaming app
 - 📫 Reach me at: **arhumj614@gmail.com**
 
@@ -45,6 +45,7 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
@@ -73,17 +74,6 @@
 
 ### 🌐 Connect with Me
 
-<p>
-  <a href="https://linkedin.com/in/arhumjain2004" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arhumj614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arhumjain2004&label=Profile%20views&color=6A0DAD&style=flat" alt="Profile Views"/>
-</p>
+- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://linkedin.com/in/arhumjain2004)
+- 🐙 GitHub: [github.com/arhumjain2004](https://github.com/arhumjain2004)
+- 📧 Email: [arhumj614@gmail.com](mailto:arhumj614@gmail.com)
