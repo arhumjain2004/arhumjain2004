@@ -73,6 +73,6 @@
 
 ### 🌐 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://github.com/arhumjain2004)
+- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://www.linkedin.com/in/arhum-jain-5192a32a0/)
 - 🐙 GitHub: [github.com/arhumjain2004](https://github.com/arhumjain2004)
 - 📧 Email: [arhumj614@gmail.com](mailto:arhumj614@gmail.com)
