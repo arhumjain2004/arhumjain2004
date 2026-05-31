@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.71**
+- 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.58**
 - 🌐 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
+- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** to sharpen my problem-solving skills
 - 🔭 Currently building: **BeatFlow** – a full-stack MERN music streaming app
 - 📫 Reach me at: **arhumj614@gmail.com**
 
