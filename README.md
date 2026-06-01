@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arhum Jain</h1>
-<h3 align="center">ECE Student @ BVCOE | Full-Stack Web Developer | DSA Problem Solver</h3>
+<h3 align="center">ECE Student @ BVCOE | Mern Stack Developer | DSA Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=ECE+Student+%F0%9F%8E%93;Full-Stack+MERN+Developer+%F0%9F%92%BB;DSA+Problem+Solver+in+C%2B%2B+%F0%9F%A7%A0;Building+real-world+web+apps+%F0%9F%9A%80;Always+learning%2C+always+building!" alt="Typing SVG" />
@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.71**
-- 🌐 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
+- 🌐 Passionate Web Developer actively expanding my skills in Full-Stack development with the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** to sharpen my problem-solving skills
 - 🔭 Currently building: **BeatFlow** – a full-stack MERN music streaming app
 - 📫 Reach me at: **arhumj614@gmail.com**
 
@@ -45,7 +45,6 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 
 > Full-stack music streaming app with upload, manage & play features.
 
-🔗 Repo: [github.com/arhumjain2004/BeatFlow](https://github.com/arhumjain2004/BeatFlow)
+🔗 Repo: [github.com/arhumjain2004/BeatFlow](https://github.com/arhumjain2004/Beatflow-fullstack)
 
 ---
 
@@ -74,24 +73,12 @@
 
 > Real-time weather forecasting app using OpenWeatherMap API with dynamic temperature, humidity & weather conditions.
 
-🔗 Repo: [github.com/arhumjain2004/Weather-Forecast](https://github.com/arhumjain2004/Weather-Forecast)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arhumjain2004&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhumjain2004&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhumjain2004&theme=tokyonight" width="60%"/>
-</p>
+🔗 Repo: [github.com/arhumjain2004/Weather-Forecast](https://github.com/arhumjain2004/Weather-forecast-webpage)
 
 ---
 
 ### 🌐 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://linkedin.com/in/arhumjain2004)
+- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](www.linkedin.com/in/arhum-jain-5192a32a0)
 - 🐙 GitHub: [github.com/arhumjain2004](https://github.com/arhumjain2004)
 - 📧 Email: [arhumj614@gmail.com](mailto:arhumj614@gmail.com)
