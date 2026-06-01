@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
--  B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.58**
--  Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
--  I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
--  Currently building: **BeatFlow** – a full-stack MERN music streaming app
--  Reach me at: **arhumj614@gmail.com**
+- 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.71**
+- 🌐 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
+- 🔭 Currently building: **BeatFlow** – a full-stack MERN music streaming app
+- 📫 Reach me at: **arhumj614@gmail.com**
 
 ---
 
@@ -45,33 +45,53 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
-🎵 BeatFlow
+---
 
-Full-stack music streaming app with upload, manage & play features.
+#### 🎵 BeatFlow
 
-🔗 Repo: github.com/arhumjain2004/BeatFlow
+> Full-stack music streaming app with upload, manage & play features.
 
-📋 Kanban Board
+🔗 Repo: [github.com/arhumjain2004/BeatFlow](https://github.com/arhumjain2004/BeatFlow)
 
-Drag-and-drop task management system for tracking workflow stages (To-Do, In Progress, Done) with local storage persistence.
+---
 
-🔗 Repo: github.com/arhumjain2004/Kanban-Board
+#### 📋 Kanban Board
 
-🌦️ Weather Forecast
+> Drag-and-drop task management system for tracking workflow stages (To-Do, In Progress, Done) with local storage persistence.
 
-Real-time weather forecasting app using OpenWeatherMap API with dynamic temperature, humidity & weather conditions.
+🔗 Repo: [github.com/arhumjain2004/Kanban-Board](https://github.com/arhumjain2004/Kanban-Board)
 
-🔗 Repo: github.com/arhumjain2004/Weather-Forecast
+---
+
+#### 🌦️ Weather Forecast
+
+> Real-time weather forecasting app using OpenWeatherMap API with dynamic temperature, humidity & weather conditions.
+
+🔗 Repo: [github.com/arhumjain2004/Weather-Forecast](https://github.com/arhumjain2004/Weather-Forecast)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arhumjain2004&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhumjain2004&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhumjain2004&theme=tokyonight" width="60%"/>
+</p>
+
 ---
 
 ### 🌐 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://www.linkedin.com/in/arhum-jain-5192a32a0/)
+- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://linkedin.com/in/arhumjain2004)
 - 🐙 GitHub: [github.com/arhumjain2004](https://github.com/arhumjain2004)
 - 📧 Email: [arhumj614@gmail.com](mailto:arhumj614@gmail.com)
