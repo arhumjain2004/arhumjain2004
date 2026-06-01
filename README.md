@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.71**
-- 🌐 Passionate Web Developer actively expanding my skills in the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🌐 Passionate Web Developer actively expanding my skills in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** to sharpen my problem-solving skills
 - 🔭 Currently building: **BeatFlow** – a full-stack MERN music streaming app
 - 📫 Reach me at: **arhumj614@gmail.com**
@@ -79,6 +79,6 @@
 
 ### 🌐 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](www.linkedin.com/in/arhum-jain-5192a32a0)
+- 🔗 LinkedIn: [linkedin.com/in/arhumjain2004](https://www.linkedin.com/in/arhum-jain-5192a32a0/)
 - 🐙 GitHub: [github.com/arhumjain2004](https://github.com/arhumjain2004)
 - 📧 Email: [arhumj614@gmail.com](mailto:arhumj614@gmail.com)
