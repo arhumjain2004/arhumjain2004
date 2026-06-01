@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.58**
-- 🌐 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🧠 I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
-- 🔭 Currently building: **BeatFlow** – a full-stack MERN music streaming app
-- 📫 Reach me at: **arhumj614@gmail.com**
+-  B.Tech in **ECE** @ BVCOE, New Delhi *(2023–27)* | CGPA: **8.58**
+-  Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+-  I love solving **DSA problems** in **C++** and regularly practice on **LeetCode** & **Codeforces** to sharpen my problem-solving skills
+-  Currently building: **BeatFlow** – a full-stack MERN music streaming app
+-  Reach me at: **arhumj614@gmail.com**
 
 ---
 
@@ -51,24 +51,23 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🎵 [BeatFlow](https://github.com/arhumjain2004/BeatFlow) | Full-stack music streaming app with upload, manage & play features | MongoDB, Express.js, React.js, Node.js, Tailwind CSS |
-| 📋 [Kanban Board](https://github.com/arhumjain2004/Kanban-Board) | Drag-and-drop task manager with local storage persistence | HTML, CSS, JavaScript |
-| 🌦️ [Weather Forecast](https://github.com/arhumjain2004/Weather-Forecast) | Real-time weather app using OpenWeatherMap API | HTML, CSS, JavaScript, REST API |
+🎵 BeatFlow
 
----
+Full-stack music streaming app with upload, manage & play features.
 
-### 📊 GitHub Stats
+🔗 Repo: github.com/arhumjain2004/BeatFlow
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arhumjain2004&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhumjain2004&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhumjain2004&theme=tokyonight" width="60%"/>
-</p>
+📋 Kanban Board
 
+Drag-and-drop task management system for tracking workflow stages (To-Do, In Progress, Done) with local storage persistence.
+
+🔗 Repo: github.com/arhumjain2004/Kanban-Board
+
+🌦️ Weather Forecast
+
+Real-time weather forecasting app using OpenWeatherMap API with dynamic temperature, humidity & weather conditions.
+
+🔗 Repo: github.com/arhumjain2004/Weather-Forecast
 ---
 
 ### 🌐 Connect with Me
